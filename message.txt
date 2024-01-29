@@ -16,7 +16,7 @@
 // @require      https://code.jquery.com/jquery-3.6.0.min.js
 // @require      https://cdnjs.cloudflare.com/ajax/libs/toastr.js/2.1.4/toastr.min.js
 // @require      https://github.com/mertos4/Nuri-AI-1.0/blob/bbfdfb866730c54e4ef4b0510a003b8bed6485b1/NuriAI.JS
-// @require      https://greasyfork.org/scripts/461221-mxobot-hacktimer-js-by-turuslan/code/MxoBot%20HackTimerjs%20By%20Turuslan.js
+// @require      https://github.com/mertos4/Nuri-AI-1.0/blob/39f88d98239c3aaba170ddaab6c85ac28595527f/Allah.js
 // ==/UserScript==
 
 /* globals $, toastr */
