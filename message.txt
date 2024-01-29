@@ -1,50 +1,15 @@
 // ==UserScript==
-// @name         Mxo Bot
+// @name         Nuribey
 // @version      1.8
-// @description  Fast, Auto Secure And Easiest To Confugre With Menu
-// @description:tr Hızlı, Oto Korumalı Ve Kolay Ayarlanılabilinir Menü
-// @description:ar سريع وآمن تلقائيًا وأسهل للتكوين مع القائمة
-// @description:bg Бързо, автоматично защитено и най-лесно за конфигуриране с меню
-// @description:cs Rychlé, automaticky zabezpečené a nejjednodušší k použití s nabídkou
-// @description:da Hurtig, Auto Sikker Og Nemmest At Konfigurere Med Menu
-// @description:de Schnell, automatisch gesichert und am einfachsten zu konfigurieren mit Menü
-// @description:el Γρήγορο, αυτόματο και εύκολο να διαμορφωθεί με το μενού
-// @description:en Fast, Auto Secure And Easiest To Confugre With Menu
-// @description:eo Rapida, Aŭto Sekura Kaj Plej Facila Al Konfuzi Kun Menuo
-// @description:es Rápido, seguro y fácil de configurar con menú
-// @description:fi Nopea, automaattisesti suojattu ja helposti määritettävissä oleva valikon kanssa
-// @description:fr Rapide, sécurisé automatiquement et le plus facile à configurer avec le menu
-// @description:fr-CA Rapide, sécurisé automatiquement et le plus facile à configurer avec le menu
-// @description:he מהיר, מאובטח וקל להגדרה עם תפריט
-// @description:hu Gyors, automatikus biztonság és könnyen konfigurálható menüvel
-// @description:id Cepat, Auto Aman Dan Paling Mudah Dikonfigurasi Dengan Menu
-// @description:it Veloce, Auto Sicuro E Più Semplice Da Configurare Con Menù
-// @description:ja 速くて、自動的に安全で設定が簡単なメニュー付き
-// @description:ka სწრაფი, ავტო დაცული და ყველაზე მარტივი კონფიგურაცია მენიუთი
-// @description:ko 빠르고 자동으로 보안이 되며 메뉴로 구성하기 가장 쉬운
-// @description:nb Rask, automatisk sikker og enkel å konfigurere med meny
-// @description:nl Snel, automatisch beveiligd en gemakkelijk te configureren met menu
-// @description:pl Szybki, automatycznie zabezpieczony i łatwy w konfiguracji z menu
-// @description:pt-BR Rápido, Automático, Seguro e Mais Fácil de Configurar com Menu
-// @description:ro Rapid, Securizare Automată și Ușor de Configurat Cu Meniu
-// @description:ru Быстро, автоматически защищено и проще всего настроить с меню
-// @description:sk Rýchle, automaticky zabezpečené a najjednoduchšie na konfiguráciu s ponukou
-// @description:sr Брзо, аутоматски безбедно и најлакше за конфигурисање са менијем
-// @description:sv Snabb, Auto Säker Och Enklast Att Konfigurera Med Meny
-// @description:th รวดเร็ว, ปลอดภัยอัตโนมัติและง่ายที่สุดในการกำหนดค่าด้วยเมนู
-// @description:uk Швидко, автоматично захищено та найлегше настроюване з меню
-// @description:ug تېز، ئاپتوماتىك سىغىنىش ۋە مەنىيى بىلەن ئۆزگىچە تەڭشەيدۇ
-// @description:vi Nhanh, Tự Động Bảo Mật Và Dễ Dàng Cấu Hình Với Menu
-// @description:zh-CN 快速、自动安全且易于配置的菜单
-// @description:zh-TW 快速、自動安全且易於配置的菜單
-// @author       @ngixl
+// @description  Nuri bot, Pixel Place'de daha verimli ve etkili bir şekilde çalışmak için tasarlanmıştır. Hızlı, güvenli ve gelişmiş özelliklere sahip gelişmiş yapay zeka özelliklerine sahiptir.
+// @author       @mustafaadas
 // @match        https://pixelplace.io/*
 // @exclude      https://pixelplace.io/forums*
 // @exclude      https://pixelplace.io/blog*
 // @exclude      https://pixelplace.io/api*
 // @exclude      https://pixelplace.io/gold-chart.php
 // @license      MIT
-// @icon         https://r.resimlink.com/aB5DPLiTFk.png
+// @icon         https://r.resimlink.com/dM_iP9e2.png
 // @run-at       document-start
 // @grant        unsafeWindow
 // @grant        GM.info
@@ -52,7 +17,6 @@
 // @require      https://cdnjs.cloudflare.com/ajax/libs/toastr.js/2.1.4/toastr.min.js
 // @require      https://greasyfork.org/scripts/461063-mxo-li-brary/code/MXO%20L%C4%B0BRARY.js
 // @require      https://greasyfork.org/scripts/461221-mxobot-hacktimer-js-by-turuslan/code/MxoBot%20HackTimerjs%20By%20Turuslan.js
-// @namespace    https://i.imgur.com/gLazoQg.png
 // ==/UserScript==
 
 /* globals $, toastr */
