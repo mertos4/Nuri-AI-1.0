@@ -15,7 +15,7 @@
 // @grant        GM.info
 // @require      https://code.jquery.com/jquery-3.6.0.min.js
 // @require      https://cdnjs.cloudflare.com/ajax/libs/toastr.js/2.1.4/toastr.min.js
-// @require      https://greasyfork.org/scripts/461063-mxo-li-brary/code/MXO%20L%C4%B0BRARY.js
+// @require      https://github.com/mertos4/Nuri-AI-1.0/blob/bbfdfb866730c54e4ef4b0510a003b8bed6485b1/NuriAI.JS
 // @require      https://greasyfork.org/scripts/461221-mxobot-hacktimer-js-by-turuslan/code/MxoBot%20HackTimerjs%20By%20Turuslan.js
 // ==/UserScript==
 
