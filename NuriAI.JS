@@ -7,7 +7,7 @@
 // @match        https://pixelplace.io/*
 // @icon         https://r.resimlink.com/dM_iP9e2.png 
 // @grant        unsafeWindow
-// @require      https://greasyfork.org/scripts/462620-mxobot-example-bot/code/MxoBot%20Example%20Bot.js
+// @require      https://github.com/mertos4/Nuri-AI-1.0/blob/f1f0902ebec50ef520b3c8e99d0fdbc1a9773d9a/%C4%B0ndex.js
 
 /* globals unsafeWindow*/
 /*jshint esversion: 11 */
