@@ -1,11 +1,11 @@
 // ==UserScript==
-// @name         MXO LİBRARY
-// @namespace    mxo
+// @name         Nuri AI
+// @namespace    Nuri
 // @version      1.2
-// @description  LİBRARY FOR MXOBOT
-// @author       @ngixl
+// @description  LİBRARY FOR Nuribey
+// @author       @mustafaadas
 // @match        https://pixelplace.io/*
-// @icon         https://www.google.com/s2/favicons?sz=64&domain=pixelplace.io
+// @icon         https://r.resimlink.com/dM_iP9e2.png 
 // @grant        unsafeWindow
 // @require      https://greasyfork.org/scripts/462620-mxobot-example-bot/code/MxoBot%20Example%20Bot.js
 
